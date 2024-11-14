@@ -1,2 +1,2 @@
-# intr2002-bonus-00
-first experience creating a repository
+# My first Github repo
+first experience creating a repository in Github
