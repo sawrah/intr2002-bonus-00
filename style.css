@@ -3,7 +3,7 @@ body {
 }
 .btn-primary{
     background-color: black;
-    border-color: black;
+    border-color: rgb(24, 24, 24);
 }
 a.active
 {
